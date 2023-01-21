@@ -125,3 +125,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# 추가
+*.iml
+.idea
